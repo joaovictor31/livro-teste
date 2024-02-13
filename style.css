@@ -1,0 +1,17 @@
+nav{
+    background-color: #AAA259;
+   
+
+}
+
+.lista{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding-right: 40px;
+}
+
+.menu{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
