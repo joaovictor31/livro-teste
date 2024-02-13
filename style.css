@@ -40,3 +40,32 @@ nav{
     align-items: center;
     margin-top: 20px;
 }
+
+.botao{
+    font-family: "Poppins", sans-serif;
+    margin-top: 20px;
+    font-weight: 600;
+    color: #20695F;
+    background-color: #DBD6C3;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 0px rgba(0, 0, 0, 0.3);
+}
+
+#titulo{
+    font-family: "Poppins", sans-serif;
+    font-size: 32px;
+    line-height: 31px;
+    margin-top: 20px;
+    font-weight: bold;
+    color: #DD7B3C;
+}
+
+.subtitulo{
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    line-height: 31px;
+    margin-top: 20px;
+    font-weight: 400;
+    color: #AC3515;
+}
